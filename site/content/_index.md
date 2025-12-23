@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Sozique Christian Network"
 subtitle: "Changing lives with the Gospel of Jesus Christ through the Bible, music and entertainment"
-image: "/img/home-jumbotron.jpg"
+image: "/img/sozique-hero.jpg"
 
 blurb:
   heading: "Why Sozique Christian Network?"
