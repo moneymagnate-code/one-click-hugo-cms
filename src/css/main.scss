@@ -86,3 +86,23 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@use './imports/_debug';*/
+/* --- SOZIQUE CUSTOM OVERRIDES --- */
+
+/* This moves the orange banner and text up to the top of the hero image */
+.jumbotron .content, 
+.jumbotron .container,
+.hero-body {
+  padding-top: 1rem !important;
+  margin-top: 0 !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/* This ensures the text block doesn't stretch too far down */
+.jumbotron .content h1, 
+.jumbotron .content h2 {
+  margin-bottom: 0.5rem !important;
+}
+
+/* --- END CUSTOM OVERRIDES --- */
