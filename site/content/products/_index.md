@@ -1,63 +1,75 @@
 ---
-title: Our vision
-type: Christian Media
-image: /img/products-jumbotron.jpg
+title: "Our Vision"
+type: "Christian Media"
+image: "/img/products-jumbotron.jpg"
+
 intro:
-  heading: What we offer
+  heading: "What We Offer"
   description: >-
-    Sozique Christian Network is the ultimate spot for families and individuals who want
-    something different from Christian television. It's easy and accesible on the Roku
-    television and has different types of programs and we’re glad to pass that knowledge to
-    everyone.
+    Sozique Christian Network is a Christ-centered media channel for families and individuals
+    who want something different from regular Christian television. Accessible on your Roku
+    TV, Sozique brings together powerful Bible teaching, music, and family-friendly
+    entertainment—all in one place.
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: "/img/illustrations-coffee.svg"
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
+        Christ-centered teaching and Bible-based programs from pastors, teachers,
+        and communicators who love God’s Word and want to see lives transformed
+        by the Gospel.
+    - image: "/img/illustrations-coffee-gear.svg"
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
+        Uplifting music, worship sessions, and inspirational specials that turn
+        your living room into a place of praise, encouragement, and spiritual
+        renewal.
+    - image: "/img/illustrations-tutorials.svg"
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
+        Family-friendly series and kids’ shows that help children learn Biblical
+        truths and godly character in a way that is engaging, fun, and safe.
+    - image: "/img/illustrations-meeting-space.svg"
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Testimonies, interviews, and original programs that highlight what God is
+        doing in the lives of everyday people, encouraging you to trust Him in
+        your own story.
+
 main:
-  heading: Enjoy unique Christian Perspectives at Sozique.
+  heading: "Enjoy Unique Christian Perspectives at Sozique"
   description: >
-    We look forward to seeing you at Sozique Christian Network
+    Our vision is to create a space where your whole family can grow in faith
+    together. Whether you are looking for quiet devotional moments, powerful
+    preaching, or joyful worship, Sozique Christian Network is here to serve
+    you with content that honors Jesus.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: "Family watching Sozique together in the living room"
+    image: "/img/products-grid3.jpg"
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: "Worship and music programming on screen"
+    image: "/img/products-grid2.jpg"
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: "Bible teaching and study resources"
+    image: "/img/products-grid1.jpg"
+
 testimonials:
-  - I like watching the chickens!
-full_image: /img/products-full-width.jpg
+  - quote:
+      text: "Sozique has given our family something we can all watch together and feel good about. The teaching is solid and the atmosphere in our home has changed."
+      author: "A Sozique Viewer"
+  - quote:
+      text: "I love turning on Sozique after a long day. The worship and messages keep my heart focused on Jesus."
+      author: "Grateful Subscriber"
+
+full_image: "/img/products-full-width.jpg"
+
 pricing:
-  heading: Monthly subscriptions
+  heading: "Enjoy Sozique for Free"
   description: >-
-    Later on we will be adding monthly subscriptions but for now enjoy free content.
+    Right now, Sozique Christian Network is available for free on Roku so you
+    can start enjoying faith-filled content with your family today.
   plans:
-    
+    - plan: "Free"
+      price: "0"
+      description: "Access Sozique Christian Network on your Roku TV at no cost."
+      items:
+        - "Faith-filled teaching and preaching"
+        - "Worship, music, and inspirational specials"
+        - "Family-friendly and kids’ programming"
 ---
 
