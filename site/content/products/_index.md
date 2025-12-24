@@ -1,3 +1,4 @@
+---
 title: "Our Vision"
 type: "Christian Media"
 image: "/img/products-jumbotron.jpg"
@@ -12,20 +13,20 @@ intro:
 
 main:
   heading: "Enjoy Unique Christian Perspectives at Sozique"
-  description: >
+  description: >-
     Our vision is to create a space where your whole family can grow in faith
     together. Whether you are looking for quiet devotional moments, powerful
     preaching, or joyful worship, Sozique Christian Network is here to serve
     you with content that honors Jesus.
   image1:
-    alt: "Family watching Sozique together in the living room"
     image: "/img/products-grid3.jpg"
+    alt: "Family watching Sozique together in the living room"
   image2:
-    alt: "Worship and music programming on screen"
     image: "/img/products-grid2.jpg"
+    alt: "Worship and music programming on screen"
   image3:
-    alt: "Bible teaching and study resources"
     image: "/img/products-grid1.jpg"
+    alt: "Bible teaching and study resources"
 
 testimonials:
   - quote: "Sozique has given my grandchild great Christian characters he can learn from and is happy to see."
@@ -47,4 +48,5 @@ pricing:
       items:
         - "Faith-filled teaching and preaching"
         - "Worship, music, and inspirational specials"
-        - "Family-friendly and kids’ programming"
+        - "Family-friendly and kids' programming"
+---
