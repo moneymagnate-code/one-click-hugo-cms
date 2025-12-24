@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Our vision
 type: Christian Media
 image: /img/products-jumbotron.jpg
 intro:
