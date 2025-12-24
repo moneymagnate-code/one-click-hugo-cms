@@ -50,11 +50,11 @@ main:
 
 testimonials:
   - quote:
-      text: "Sozique has given our family something we can all watch together and feel good about. The teaching is solid and the atmosphere in our home has changed."
-      author: "A Sozique Viewer"
-  - quote:
-      text: "I love turning on Sozique after a long day. The worship and messages keep my heart focused on Jesus."
-      author: "Grateful Subscriber"
+     testimonials:
+  - quote: "Sozique has given my grandchild great Christian Characters he can learn from and is happy to see."
+    author: "A Sozique Viewer"
+  - quote: "I love turning on Sozique after a long day it's entertaining and helps me to unwind."
+    author: "Grateful Subscriber"
 
 full_image: "/img/products-full-width.jpg"
 
