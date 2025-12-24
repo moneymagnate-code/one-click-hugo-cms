@@ -1,4 +1,3 @@
----
 title: "Our Vision"
 type: "Christian Media"
 image: "/img/products-jumbotron.jpg"
@@ -10,26 +9,6 @@ intro:
     who want something different from regular Christian television. Accessible on your Roku
     TV, Sozique brings together powerful Bible teaching, music, and family-friendly
     entertainment—all in one place.
-  blurbs:
-    - image: "/img/illustrations-coffee.svg"
-      text: >
-        Christ-centered teaching and Bible-based programs from pastors, teachers,
-        and communicators who love God’s Word and want to see lives transformed
-        by the Gospel.
-    - image: "/img/illustrations-coffee-gear.svg"
-      text: >
-        Uplifting music, worship sessions, and inspirational specials that turn
-        your living room into a place of praise, encouragement, and spiritual
-        renewal.
-    - image: "/img/illustrations-tutorials.svg"
-      text: >
-        Family-friendly series and kids’ shows that help children learn Biblical
-        truths and godly character in a way that is engaging, fun, and safe.
-    - image: "/img/illustrations-meeting-space.svg"
-      text: >
-        Testimonies, interviews, and original programs that highlight what God is
-        doing in the lives of everyday people, encouraging you to trust Him in
-        your own story.
 
 main:
   heading: "Enjoy Unique Christian Perspectives at Sozique"
@@ -49,11 +28,9 @@ main:
     image: "/img/products-grid1.jpg"
 
 testimonials:
-  - quote:
-     testimonials:
-  - quote: "Sozique has given my grandchild great Christian Characters he can learn from and is happy to see."
+  - quote: "Sozique has given my grandchild great Christian characters he can learn from and is happy to see."
     author: "A Sozique Viewer"
-  - quote: "I love turning on Sozique after a long day it's entertaining and helps me to unwind."
+  - quote: "I love turning on Sozique after a long day. It's entertaining and helps me to unwind."
     author: "Grateful Subscriber"
 
 full_image: "/img/products-full-width.jpg"
@@ -71,5 +48,3 @@ pricing:
         - "Faith-filled teaching and preaching"
         - "Worship, music, and inspirational specials"
         - "Family-friendly and kids’ programming"
----
-
