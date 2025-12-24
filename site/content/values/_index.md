@@ -1,45 +1,41 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: "Our Values"
+image: "/img/about-jumbotron.jpg"
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Christ-Centered Content"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Everything we share is rooted in the truth of God’s Word. From Bible
+      teaching to music and family programming, our goal is to point hearts
+      to Jesus and help families grow closer to Him together.
+    imageUrl: "/img/value-christ-centered.jpg"
+
+  - heading: "Family First"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      We believe home is the first ministry. Sozique Christian Network offers
+      safe, wholesome programming you can enjoy with your kids, free from the
+      language, themes, and messages that contradict your faith and values.
+    imageUrl: "/img/value-family.jpg"
+
+  - heading: "Biblical Teaching & Discipleship"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      Faith comes by hearing the Word of God. We feature Christ-honoring
+      teaching, devotionals, and testimonies that encourage viewers to know,
+      love, and obey Jesus in everyday life.
+    imageUrl: "/img/value-teaching.jpg"
+
+  - heading: "Worship & Joy"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+      God has given us music, creativity, and joy as powerful tools for
+      worship. Our music and entertainment programs are designed to lift
+      your spirit, celebrate the goodness of God, and bring praise into
+      your home.
+    imageUrl: "/img/value-worship.jpg"
+
+  - heading: "Integrity & Stewardship"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      We aim to honor God in how we operate—using resources wisely, telling
+      the truth, and treating our viewers, partners, and creators with
+      honesty and respect. We want every part of Sozique Christian Network
+      to reflect the heart of Christ.
+    imageUrl: "/img/value-integrity.jpg"
 ---
