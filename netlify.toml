@@ -13,8 +13,9 @@
   framework = "hugo"
   targetPort = 3000
 
-[[plugins]]
-  package = "netlify-plugin-cypress"
-
-  [plugins.inputs]
-    record = true
+# Temporarily disable Cypress plugin while we redesign the site
+# [[plugins]]
+#   package = "netlify-plugin-cypress"
+#
+#   [plugins.inputs]
+#     record = true
