@@ -1,8 +1,8 @@
 <nav data-nav class="flex justify-between items-center center bg-white divider-grey relative">
 
 	<!-- Logo -->
-	<a href="/one-click-hugo-cms/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/one-click-hugo-cms/img/sozique-logo.png" alt="Sozique Christian Network logo" class="br0 db mb0 w-100"/>
+	<a href="{{ "/" | relURL }}" class="pa3 db mr4 h-100 w3 flex-none">
+		<img src="{{ "img/sozique-logo.png" | relURL }}" alt="Sozique Christian Network logo" class="br0 db mb0 w-100"/>
 	</a>
 
 	<!-- Primary Nav -->
@@ -15,10 +15,10 @@
 	</div>
 
 	<ul class="flex b grey-3 nav-menu">
-  <li><a href="/one-click-hugo-cms/products/" class="pa3 no-underline db">PROGRAMS XXX</a></li>
-  <li><a href="/one-click-hugo-cms/values/" class="pa3 no-underline db">VALUES XXX</a></li>
-  <li><a href="/one-click-hugo-cms/post/" class="pa3 no-underline db">BLOG XXX</a></li>
-  <li><a href="/one-click-hugo-cms/contact/" class="pa3 no-underline db">CONTACT XXX</a></li>
+  <li><a href="{{ "products" | relURL }}" class="pa3 no-underline db">PROGRAMS XXX</a></li>
+  <li><a href="{{ "values" | relURL }}" class="pa3 no-underline db">VALUES XXX</a></li>
+  <li><a href="{{ "post" | relURL }}" class="pa3 no-underline db">BLOG XXX</a></li>
+  <li><a href="{{ "contact" | relURL }}" class="pa3 no-underline db">CONTACT XXX</a></li>
 </ul>
 
 </nav>
